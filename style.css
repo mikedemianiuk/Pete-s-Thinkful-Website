@@ -114,6 +114,10 @@ article h2 {
   margin-bottom: 30px;
 }
 
+#portfolio p {
+  text-align: left;
+}
+
 /* Contact list styling */
 #contact h2 {
   text-align: center;
@@ -121,7 +125,7 @@ article h2 {
 }
 
 #contact ol {
-  list-style-type: none;
+  list-style-type: decimal;
   padding: 0;
   text-align: center;
 }
