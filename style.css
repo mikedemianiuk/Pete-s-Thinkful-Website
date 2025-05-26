@@ -126,8 +126,8 @@ article h2 {
 
 #contact ol {
   list-style-type: decimal;
-  padding: 20px;
-  text-align: left;
+  padding-left: 20px;
+  text-align: center;
 }
 
 #contact a {
