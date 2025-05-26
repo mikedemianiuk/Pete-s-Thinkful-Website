@@ -127,7 +127,7 @@ article h2 {
 #contact ol {
   list-style-type: decimal;
   padding-left: 0;
-  margin-left: 20px;
+  margin-left: 0;
   display: inline-block;
   text-align: left;
   list-style-position: inside;
